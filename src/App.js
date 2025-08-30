@@ -6,7 +6,6 @@ import Info from './components/info.js';
 
 
 function App() {
-
 	const api_key = '3cb9449ad382eea08832734e94a58749';
 	const [data, setData] = useState({});	
 	const [city, setCity] = useState('');
