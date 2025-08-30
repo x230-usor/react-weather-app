@@ -4,6 +4,7 @@ import './components/phone-frame.css';
 import SearchBar from './components/search.js';
 import Info from './components/info.js';
 
+
 function App() {
 
 	const api_key = '3cb9449ad382eea08832734e94a58749';
