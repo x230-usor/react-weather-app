@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './styles/searchbar.css'
 
 const SearchBar = ({onSearch, onChange, location}) => {
